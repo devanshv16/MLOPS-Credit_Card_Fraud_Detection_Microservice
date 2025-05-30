@@ -1,0 +1,33 @@
+# === Core ML Libraries ===
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+xgboost
+
+# === FastAPI Microservice ===
+fastapi
+uvicorn[standard]
+
+# === CLI Tooling ===
+click
+
+# === Linting & Formatting ===
+black
+pylint
+flake8
+
+# === Testing ===
+pytest
+
+# === Model Tracking ===
+mlflow
+
+# === Optional Dev Enhancements ===
+python-dotenv          # For managing environment variables from a .env file
+joblib                 # For saving/loading models
+pydantic               # For request/response validation with FastAPI
+httpx                  # For testing FastAPI routes
+ipython

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOPS-Credit_Card_Fraud_Detection_Microservice/mlruns/371238591755952106/69c7b4d7a4194b59a2e895c6d52ce137/artifacts
+end_time: 1748525041110
+entry_point_name: ''
+experiment_id: '371238591755952106'
+lifecycle_stage: active
+run_id: 69c7b4d7a4194b59a2e895c6d52ce137
+run_name: big-cub-402
+run_uuid: 69c7b4d7a4194b59a2e895c6d52ce137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748525034818
+status: 3
+tags: []
+user_id: codespace

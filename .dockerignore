@@ -1,0 +1,7 @@
+data/
+train.py
+notebooks/
+__pycache__/
+*.ipynb
+mlruns/
+*.log

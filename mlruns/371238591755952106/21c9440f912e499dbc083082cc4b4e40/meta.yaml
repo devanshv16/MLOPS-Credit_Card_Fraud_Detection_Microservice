@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOPS-Credit_Card_Fraud_Detection_Microservice/mlruns/371238591755952106/21c9440f912e499dbc083082cc4b4e40/artifacts
+end_time: 1748527109448
+entry_point_name: ''
+experiment_id: '371238591755952106'
+lifecycle_stage: active
+run_id: 21c9440f912e499dbc083082cc4b4e40
+run_name: nimble-robin-408
+run_uuid: 21c9440f912e499dbc083082cc4b4e40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748527109441
+status: 4
+tags: []
+user_id: codespace

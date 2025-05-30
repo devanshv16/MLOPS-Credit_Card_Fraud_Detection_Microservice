@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748528406556
+current_stage: None
+description: null
+last_updated_timestamp: 1748528406556
+name: FraudDetector
+run_id: 9bbfbc60216549749929dcebcfb51786
+run_link: null
+source: file:///workspaces/MLOPS-Credit_Card_Fraud_Detection_Microservice/mlruns/371238591755952106/9bbfbc60216549749929dcebcfb51786/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///workspaces/MLOPS-Credit_Card_Fraud_Detection_Microservice/mlruns/371238591755952106/9bbfbc60216549749929dcebcfb51786/artifacts/model
+user_id: null
+version: 3

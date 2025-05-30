@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOPS-Credit_Card_Fraud_Detection_Microservice/mlruns/371238591755952106/b579411f6d9f4658b37db2e25906e043/artifacts
+end_time: 1748528052865
+entry_point_name: ''
+experiment_id: '371238591755952106'
+lifecycle_stage: active
+run_id: b579411f6d9f4658b37db2e25906e043
+run_name: blushing-mule-156
+run_uuid: b579411f6d9f4658b37db2e25906e043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748528047703
+status: 3
+tags: []
+user_id: codespace
