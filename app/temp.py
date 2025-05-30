@@ -20,3 +20,5 @@ fraud_sample_label = y[fraud_indices[0]]
 print("\n🔴 Sample input (fraud):")
 print(fraud_sample_input)
 print("⚠️ Actual class:", fraud_sample_label)
+
+

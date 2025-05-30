@@ -12,6 +12,7 @@ format-check:
 	black --check .
 
 test:
-	python -m pytest -vv -cov=src tests/*.py
+	#python -m pytest -vv -cov=src tests/*.py
+	PYTHONPATH=. pytest
 
 all: install lint format test

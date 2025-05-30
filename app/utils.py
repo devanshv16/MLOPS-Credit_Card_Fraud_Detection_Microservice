@@ -13,11 +13,12 @@ def load_data(filepath):
 
 def preprocess_data(df):
     X = df.drop("Class", axis=1)
+    print(X.columns)
     y = df["Class"]
 
     scaler = StandardScaler()
     X_scaled = scaler.fit_transform(X)
-
+    #print(X_scaled.columns)
     return X_scaled, y, scaler
 
 
